@@ -19,6 +19,7 @@
 ### Description
 ***
 The WIM-AddMountPoint repository facilitates the editing of WIM (Windows Imaging Format) images to include a network mount point. This capability is particularly useful in scenarios where network resources need to be accessed within the context of a WIM image, such as during system deployments or customized processes.
+Works only with Windows PE environments.
 
 ### Utilization
 ***
@@ -70,12 +71,24 @@ To run the `WIM-AddMountPoint` tool
 ### Tests
 <a name="en-test"></a>
 ***
+| Application | Works ? |
+|:---:|:---:|
+|EaseUS Data Recovery Wizard|No|
+|EaseUS Partition Master|Yes|
+|EaseUS Todo Backup|No|
+|Jayro's Lockpick|Yes|
+|Malwarebytes|Yes, doesn't appear in file explorer. Available in address bar.|
+|MiniTool Partition Wizard|Yes|
+|MiniTool Power Data Recovery|No|
+|MiniTool ShadowMaker|Yes|
+|ShadowProtect RecoveryEnvironment|Yes|
 
 # FR WIM-AddMountPoint
 
 ### Description
 ***
 WIM-AddMountPoint facilite l'édition d'images WIM (Windows Imaging Format) pour inclure un point de montage réseau. Cette fonctionnalité est particulièrement utile dans les scénarios où les ressources réseau doivent être accessible dans le contexte d'une image WIM, par exemple lors de déploiements de systèmes personnalisés.
+Fonctionne uniquement avec les environnements Windows PE.
 
 ### Utilisation
 ***
@@ -126,3 +139,14 @@ Pour exécuter l'outil `WIM-AddMountPoint`
 ### Tests
 <a name="fr-test"></a>
 ***
+| Application | Fonctionne ? |
+|:---:|:---:|
+|EaseUS Data Recovery Wizard|Non|
+|EaseUS Partition Master|Oui|
+|EaseUS Todo Backup|Non|
+|Jayro's Lockpick|Oui|
+|Malwarebytes|Oui, n'apparaît pas dans l'explorateur de fichiers. Disponible dans la barre d'adresse.|
+|MiniTool Partition Wizard|Oui|
+|MiniTool Power Data Recovery|Non|
+|MiniTool ShadowMaker|Oui|
+|ShadowProtect RecoveryEnvironment|Oui|
