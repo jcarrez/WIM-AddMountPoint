@@ -133,8 +133,8 @@ Pour exécuter l'outil `WIM-AddMountPoint`
 ***
 * **Privilèges Administrateur**: Assurez-vous d'avoir les privilèges Administrateur quand vous exécutez le script `EditWim.ps1`.
 * **Sauvegarde de fichiers**: Assurez-vous d'avoir créé des sauvegardes de vos fichiers avant d'utiliser l'outil car les modifications sont irréversibles.
-* **Compatibilité**: L'outil est concu pour fonctionner avec les fichiers Windows Imaging Format (WIM). Assurez-vous que vos fichiers sont au format correct avant de tenter des modifications.
-* **Dépendances**: Assurez-vous que votre système répond aux dépendances nécessaires pour exécuter des scripts Power Shell.
+* **Compatibilité**: L'outil est conçu pour fonctionner avec les fichiers Windows Imaging Format (WIM). Assurez-vous que vos fichiers sont au format correct avant de tenter des modifications.
+* **Dépendances**: Assurez-vous que votre système répond aux dépendances nécessaires pour exécuter des scripts PowerShell.
 
 ### Tests
 <a name="fr-test"></a>
