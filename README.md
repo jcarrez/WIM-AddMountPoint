@@ -92,7 +92,7 @@ Fonctionne uniquement avec les environnements Windows PE.
 
 ### Utilisation
 ***
-Les outils fournis dans ce dépôt sont conçus pour être intuitives et simples. Suivez les étapes ci-dessous pour intégrer efficacement les points de montage réseau dans vos images WIM.
+Les outils fournis dans ce dépôt sont conçus pour être intuitifs et simples. Suivez les étapes ci-dessous pour intégrer efficacement les points de montage réseau dans vos images WIM.
 
 ### Configurer les identifiants
 <a name="fr-configure-credentials"></a>
